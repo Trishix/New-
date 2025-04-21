@@ -1,1 +1,1 @@
-Made this repo when I use to learn javascript
+Made this repo when I used to learn javascript
